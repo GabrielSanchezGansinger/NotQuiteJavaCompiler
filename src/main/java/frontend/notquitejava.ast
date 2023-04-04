@@ -1,0 +1,125 @@
+package notquitejava.ast
+
+typeprefix: NQJ
+
+abstract syntax:
+
+Program(ClassDeclList classDecls, FunctionDeclList functionDecls, InterfaceDeclList interfaceDecls)
+
+TopLevelDecl =
+    ClassDecl
+  | FunctionDecl
+  | InterfaceDecl
+
+InterfaceFunctionDecl(Type returnType, String name, VarDeclList formalParameters)
+
+InterfaceDecl(String name, InterfaceFunctionDeclList funcs)
+
+FunctionDecl(Type returnType, String name, VarDeclList formalParameters, Block methodBody)
+
+ClassDecl(String name, Extended extended, Implements impl, VarDeclList fields, FunctionDeclList methods)
+
+ImplementsInterface(String name)
+
+Implements =
+      ImplementsNothing()
+    | ImplementsInterfaceList
+
+Extended =
+    ExtendsNothing()
+  | ExtendsClass(String name)
+
+VarDecl(Type type, String name)
+
+MemberDecl =
+    VarDecl
+  | FunctionDecl
+
+Type =
+    TypeArray(Type componentType, Expr dimSize)
+  | BaseType
+
+BaseType =
+    TypeInt()
+  | TypeBool()
+  | TypeClass(String name)
+
+Statement =
+    Block
+  | StmtIf(Expr condition, Statement ifTrue, Statement ifFalse)
+  | StmtWhile(Expr condition, Statement loopBody)
+  | StmtReturn(Expr result)
+  | VarDecl
+  | StmtExpr(Expr expr)
+  | StmtAssign(ExprL address, Expr value)
+
+// ExprL represents expressions that have an address
+// and as such can be used on the left hand side of an assignment
+ExprL =
+    ArrayLookup(Expr arrayExpr, Expr arrayIndex)
+  | FieldAccess(Expr receiver, String fieldName)
+  | VarUse(String varName)
+
+
+Expr =
+    // reads the value from the given address
+    Read(ExprL address)
+  | ExprBinary(Expr left, Operator operator, Expr right)
+  | ExprUnary(UnaryOperator unaryOperator, Expr expr)
+  | ArrayLength(Expr arrayExpr)
+  | MethodCall(Expr receiver, String methodName, ExprList arguments)
+  | FunctionCall(String methodName, ExprList arguments)
+  | BoolConst(boolean boolValue)
+  | Number(int intValue)
+  | ExprThis()
+  | ExprNull()
+  | NewArray(Type baseType, Expr arraySize)
+  | NewObject(String className)
+
+Operator =
+    And()
+  | Plus()
+  | Minus()
+  | Times()
+  | Div()
+  | Less()
+  | Equals()
+
+UnaryOperator =
+    UnaryMinus()
+  | Negate()
+
+
+// List types
+TopLevelDeclList * TopLevelDecl
+ClassDeclList * ClassDecl
+InterfaceDeclList * InterfaceDecl
+MemberDeclList * MemberDecl
+VarDeclList * VarDecl
+FunctionDeclList * FunctionDecl
+InterfaceFunctionDeclList * InterfaceFunctionDecl
+ImplementsInterfaceList * ImplementsInterface
+Block * Statement
+ExprList * Expr
+
+
+// <ex3>
+VarRef = FieldAccess | VarUse
+// </ex3>
+
+attributes:
+
+"information about the source code"
+frontend.SourcePosition Element.sourcePosition
+
+// <ex3>
+NQJVarDecl VarRef.variableDeclaration
+NQJFunctionDecl FunctionCall.functionDeclaration
+NQJFunctionDecl MethodCall.functionDeclaration
+NQJClassDecl NewObject.classDeclaration
+NQJClassDecl ClassDecl.directSuperClass
+NQJClassDecl TypeClass.classDeclaration
+analysis.Type Type.type
+analysis.ArrayType NewArray.arrayType
+analysis.ArrayType ArrayLookup.arrayType
+// </ex3>

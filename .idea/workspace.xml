@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="326605f3-0aa3-43a9-b207-1e17b7b584a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/g_sanchez17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/g_sanchez17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.analysis.FileAnalysisTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.analysis.FileAnalysisTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.analysis.Portfolio_tests_analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.analysis.Portfolio_tests_analysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.parser.FileParsingTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.parser.FileParsingTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.parser.ParserAstTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.parser.ParserAstTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.parser.Portfolio_tests_parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.parser.Portfolio_tests_parser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.DocExamples.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.DocExamples.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.FileTranslationTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.FileTranslationTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.FunctionTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.FunctionTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.Portfolio_tests_translation.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.Portfolio_tests_translation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.SimpleTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/notquitejava.translation.SimpleTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/notquitejava.analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/notquitejava.analysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/notquitejava.parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/notquitejava.parser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/notquitejava.translation.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/notquitejava.translation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.analysis.FileAnalysisTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.analysis.FileAnalysisTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.analysis.Portfolio_tests_analysis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.analysis.Portfolio_tests_analysis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.parser.FileParsingTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.parser.FileParsingTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.parser.ParserAstTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.parser.ParserAstTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.parser.Portfolio_tests_parser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.parser.Portfolio_tests_parser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.DocExamples.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.DocExamples.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.FileTranslationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.FileTranslationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.FunctionTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.FunctionTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.Portfolio_tests_translation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.Portfolio_tests_translation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.SimpleTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-notquitejava.translation.SimpleTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Analysis$1.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Analysis.class.uniqueId4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ExprChecker$1.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ExprChecker$2.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ExprChecker.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/analysis/Analysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/analysis/Analysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/analysis/ClassType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/analysis/ClassType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/analysis/InterfaceType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/analysis/InterfaceType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/translation/Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/translation/Translator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testoutput/ArrayOfArrays3.ll" beforeDir="false" afterPath="$PROJECT_DIR$/testoutput/ArrayOfArrays3.ll" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="g_sanchez17" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KxKEsgUgSKhGMblZYN50sYch3G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GSG23/Documents/Uni/Compilerbau/g_sanchez17/testdata/typechecker/ok/Portfolio&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\testdata\typechecker\ok\Portfolio" />
+      <recent name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\testdata\translation\Portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\testdata\translation\Portfolio" />
+      <recent name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\testdata\typechecker\error\Portfolio" />
+      <recent name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\testdata\typechecker\ok\Portfolio" />
+      <recent name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\testdata\parser\ok\Portfolio" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+      <command value="gradle wrapper" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.FileAnalysisTest">
+    <configuration name="FileAnalysisTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;notquitejava.analysis.FileAnalysisTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FileTranslationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;notquitejava.translation.FileTranslationTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Portfolio_tests_analysis" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;notquitejava.analysis.Portfolio_tests_analysis&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Portfolio_tests_translation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;notquitejava.translation.Portfolio_tests_translation&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Portfolio_tests_translation.testClassesRunsThrough" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;notquitejava.translation.Portfolio_tests_translation.testClassesRunsThrough&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FileAnalysisTest" />
+        <item itemvalue="Gradle.Portfolio_tests_analysis" />
+        <item itemvalue="Gradle.Portfolio_tests_translation.testClassesRunsThrough" />
+        <item itemvalue="Gradle.Portfolio_tests_translation" />
+        <item itemvalue="Gradle.FileTranslationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="326605f3-0aa3-43a9-b207-1e17b7b584a7" name="Changes" comment="" />
+      <created>1674910688382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674910688382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testdata/translation/classes/BinaryTree.java</url>
+          <line>216</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testdata/translation/classes/BubbleSort.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="minillvm.ast.TypePointerImpl" memberName="to" />
+        <PinnedItemInfo parentTag="minillvm.ast.VarRefImpl" memberName="variable" />
+        <PinnedItemInfo parentTag="minillvm.ast.TypeStructImpl" memberName="fields" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

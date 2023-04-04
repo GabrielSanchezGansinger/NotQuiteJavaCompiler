@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="notquitejava.analysis.Portfolio_tests_analysis" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-10T14:50:56" hostname="PC-RONAT" time="0.001">
+  <properties/>
+  <testcase name="testClassandInterfaceInteraction" classname="notquitejava.analysis.Portfolio_tests_analysis" time="0.0"/>
+  <testcase name="testInterfaceCall" classname="notquitejava.analysis.Portfolio_tests_analysis" time="0.0"/>
+  <testcase name="testSimpleClassWithField" classname="notquitejava.analysis.Portfolio_tests_analysis" time="0.0"/>
+  <testcase name="testSimpleClassWithMethod" classname="notquitejava.analysis.Portfolio_tests_analysis" time="0.0"/>
+  <testcase name="testClassFieldAccess" classname="notquitejava.analysis.Portfolio_tests_analysis" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

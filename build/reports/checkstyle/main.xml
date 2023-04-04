@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\Analysis.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\ArrayType.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\ClassType.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\ExprChecker.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\InterfaceType.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\NameTable.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\Type.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\TypeContext.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\TypeContextImpl.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\analysis\TypeError.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\frontend\AstHelper.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\frontend\AstPrinter.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\frontend\Main.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\frontend\NQJFrontend.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\frontend\SourcePosition.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\frontend\StatementChecker.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\frontend\SyntaxError.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\main\NotQuiteJavaCompiler.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\analysis\BasicBlocks.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\analysis\Checks.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\analysis\ExpectedType.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\analysis\LlvmTypeError.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\analysis\LlvmTypeErrorCycle.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\analysis\Typechecker.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\printer\DuplicateNames.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\printer\PrettyPrinter.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\minillvm\printer\SourceInfo.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\translation\ExprLValue.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\translation\ExprRValue.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\translation\StmtTranslator.java">
+</file>
+<file name="C:\Users\GSG23\Documents\Uni\Compilerbau\g_sanchez17\src\main\java\translation\Translator.java">
+</file>
+</checkstyle>
